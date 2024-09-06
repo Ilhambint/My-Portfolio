@@ -84,13 +84,7 @@ function Experience() {
                     <h3 className="vertical-timeline-element-title">Business Development
                     </h3>
                     <h4 className="vertical-timeline-element-subtitle">StartUp EQUIPERP</h4>
-                    <p>
-                        Conducting market research and market analysis Finding new business,
-                        opportunities Maintaining relationships with existing and new clients Drafting,
-                        and presenting business development strategies Collaborating with other,
-                        divisions to meet market needs Conducting research on the company's business.
-                        development
-                    </p>
+                    <p>Conducting market research and market analysis Finding new business, opportunities Maintaining relationships with existing and new clients Drafting.</p>
                 </VerticalTimelineElement>
 
             </VerticalTimeline>

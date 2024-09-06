@@ -11,7 +11,7 @@ function About() {
     <section id="about">
         <div className="wrapper">
             <h3>About</h3>
-            <p>Hello! I’m Ilham Bintang Pratama, a passionate junior frontend developer currently studying at Universitas Dinamika. With a strong foundation in HTML, CSS, JavaScript, Bootstrap, Vite, and React, I strive to create engaging and user-friendly web applications.</p>
+            <p>Hello! I am Ilham Bintang Pratama, a passionate junior frontend developer currently studying at Universitas Dinamika. With a strong foundation in HTML, CSS, JavaScript, Bootstrap, Vite, and React, I strive to create engaging and user-friendly web applications.</p>
             <p>I began my journey in web development at Binar Academy, where I honed my skills in frontend JavaScript. This experience provided me with a solid understanding of modern web technologies and best practices.</p>
 
             <h4>Programming Language & Tools</h4>
