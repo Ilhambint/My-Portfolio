@@ -8,7 +8,7 @@ export const portfoliolist = [
         id: '1',
         title: 'website Portfolio #1',
         image: portfolio1,
-        description: 'Slicing website that can slicing using HTML, CSS, and Javascript.'
+        skill: 'Slicing website that can slicing using HTML, CSS, and Javascript.'
     }, 
     {
         id: '2',
