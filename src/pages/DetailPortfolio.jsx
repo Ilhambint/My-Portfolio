@@ -17,7 +17,7 @@ function DetailPortfolio() {
         <> < Navbar /> <section id="detail-portfolio">
             <div className="wrapper">
                 <h1>{data.title}</h1>
-                <img src={data.image}/>
+                <a href={data.link} target="_blank" rel="noopener noreferrer"> <img src={data.image} alt={data.title} /> </a>
                 <p className="skill"><b>Skills:</b>{data.skill}</p>
             </div>
         </section>

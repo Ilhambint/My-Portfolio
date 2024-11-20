@@ -1,7 +1,9 @@
 #detail-portfolio > .wrapper {
   width: 60%;
 }
-#detail-portfolio > .wrapper > img {
+
+
+#detail-portfolio > .wrapper > a > img {
   margin: auto;
   width: 100%;
   border-radius: 10px;
