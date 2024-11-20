@@ -22,7 +22,7 @@ export const portfoliolist = [
         id: '3',
         title: 'website Portfolio #3',
         image: portfolio3,
-        skill: 'Learn to create an e-commerce website using React.Js from youtube',
+        skill: 'Learn to create an e-commerce website using React.Js from youtube.',
         link: 'https://e-ecommerce-git-main-vexas-projects.vercel.app/'
     }
 ]
